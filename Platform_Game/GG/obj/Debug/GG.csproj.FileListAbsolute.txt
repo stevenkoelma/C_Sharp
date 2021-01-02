@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\source\repos\GG\GG\bin\Debug\GG.exe.config
+C:\Users\Gebruiker\source\repos\GG\GG\bin\Debug\GG.exe
+C:\Users\Gebruiker\source\repos\GG\GG\bin\Debug\GG.pdb
+C:\Users\Gebruiker\source\repos\GG\GG\obj\Debug\GG.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\GG\GG\obj\Debug\GG.Form1.resources
+C:\Users\Gebruiker\source\repos\GG\GG\obj\Debug\GG.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\GG\GG\obj\Debug\GG.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\GG\GG\obj\Debug\GG.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\GG\GG\obj\Debug\GG.exe
+C:\Users\Gebruiker\source\repos\GG\GG\obj\Debug\GG.pdb
